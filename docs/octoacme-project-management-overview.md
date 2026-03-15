@@ -20,6 +20,10 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+For a full list of personas including UX Designer, QA Engineer, Technical Writer, Release Engineer, Security Reviewer, Support / Customer Success Representative, Analytics / Data Engineer, and Accessibility Advocate, see [Roles & Personas](octoacme-roles-and-personas.md).
+
+For guidance on who is responsible, accountable, consulted, and informed for common activities, see the [Role Interactions & RACI Matrix](octoacme-role-interactions.md).
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
@@ -27,6 +31,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Acceptance Criteria & Definition of Done
 - Risk Register
 - Retrospective notes and action items
+- [Role-Based Checklists](checklists/role-based-checklists.md): release handoff, design handoff, and documentation handoff checklists
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
